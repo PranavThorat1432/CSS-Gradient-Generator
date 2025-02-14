@@ -26,7 +26,8 @@ The **CSS Gradient Generator** is a sleek and interactive tool that allows users
 ---
 
 ## 📸 Preview
-![Gradient Generator](https://via.placeholder.com/600x300?text=Gradient+Demo)
+![css1](https://github.com/user-attachments/assets/9c295645-4d46-439d-8304-964653666982)
+
 
 🔗 **Live Demo:** [Click Here](#) *(Replace with your live demo URL)*
 
