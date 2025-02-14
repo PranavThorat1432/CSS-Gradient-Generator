@@ -30,6 +30,9 @@ The **CSS Gradient Generator** is a sleek and interactive tool that allows users
 
 ![css2](https://github.com/user-attachments/assets/b6e1675e-ab16-4a36-85ca-ac16b8ddc9e1)
 
+![css3](https://github.com/user-attachments/assets/be963946-c484-4e8e-8c21-557b49d64107)
+
+
 
 🔗 **Live Demo:** [Click Here](#) *(Replace with your live demo URL)*
 
