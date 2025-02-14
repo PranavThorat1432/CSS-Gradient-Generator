@@ -9,11 +9,17 @@ The **CSS Gradient Generator** is a sleek and interactive tool that allows users
 ## 🚀 Features
 
 ✅ **Customizable Colors** – Input two HEX color codes to create a unique gradient.
+
 ✅ **Direction Controls** – Choose from 8 gradient directions (Top, Bottom, Left, Right, Diagonals).
+
 ✅ **Random Color Generator** – Click "Generate" without input to get a random gradient.
+
 ✅ **Auto-Select Code** – Click on the generated code to automatically select it for copying.
+
 ✅ **Clipboard Copying** – One-click button to copy the gradient CSS code.
+
 ✅ **Responsive Design** – Optimized for both desktop and mobile devices.
+
 ✅ **Smooth Animations** – Modern transitions for a polished user experience.
 
 ---
