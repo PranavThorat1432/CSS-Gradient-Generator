@@ -36,8 +36,9 @@ The **CSS Gradient Generator** is a sleek and interactive tool that allows users
 
 ![css5](https://github.com/user-attachments/assets/adb1f7e1-4e9a-4b1c-9bba-0896b6a175f4)
 
+---
 
-🔗 **Live Demo:** [Click Here](#) *(Replace with your live demo URL)*
+🔗 **Live Demo:** [Click Here](https://css-gradient-generator-brown.vercel.app/) 
 
 ---
 
